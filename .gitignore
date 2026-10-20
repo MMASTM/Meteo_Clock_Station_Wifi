@@ -16,3 +16,5 @@
 *.dep
 /RTC/EWARM/RTC
 /RTC/EWARM/settings
+.vscode/iar-vsc.json
+/Application/EWARM/STM32F769I-Discovery_Demo/BrowseInfo
